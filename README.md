@@ -100,7 +100,6 @@ Run    → Ctrl + F10
 This project helped me gain hands-on experience with:
 
 - 📚 Data Structures and Algorithms
-- 💻 Object-Oriented Programming (OOP)
 - 🗺️ Graph Theory
 - ⚡ Algorithm Optimization
 - 🚑 Priority Scheduling
